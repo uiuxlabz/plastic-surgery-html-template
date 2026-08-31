@@ -2,6 +2,10 @@
 
 A premium, fully responsive HTML template for plastic surgery and aesthetic medicine clinics. The design communicates clinical excellence, warmth, and refined care through a bespoke palette of ivory, blush, rose, and plum tones.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value |
